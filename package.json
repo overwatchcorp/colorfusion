@@ -1,0 +1,23 @@
+{
+  "name": "colorfusion",
+  "version": "0.1.0",
+  "homepage": "https://overwatchcorp.github.io/colorfusion/",
+  "private": true,
+  "dependencies": {
+    "oniguruma": "^7.0.0",
+    "oniguruma-js": "^0.1.1",
+    "onigurumajs": "^1.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "verbal-expressions": "^0.3.0",
+    "xregexp": "^4.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "npm run build && gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

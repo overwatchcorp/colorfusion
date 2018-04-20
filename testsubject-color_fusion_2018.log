@@ -1,0 +1,279 @@
+Scenario - Testexperiment.sce
+Logfile written - 04/17/2018 13:10:19
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+testsubject	1	Response	7	552800	562633	1
+testsubject	3	Picture	1	554766	0	1	667	2	0	500	other	0
+testsubject	4	Response	5	588798	33198	1
+testsubject	4	Response	3	621917	66317	1
+testsubject	6	Picture	9	623819	0	1	667	2	0	500	other	0
+testsubject	7	Response	6	704872	80219	1
+testsubject	7	Response	2	848145	223492	1
+testsubject	9	Picture	1	850159	0	1	667	2	0	500	other	0
+testsubject	10	Response	5	887583	36590	1
+testsubject	10	Response	3	945340	94347	1
+testsubject	12	Picture	7	947233	0	1	668	2	0	500	other	0
+testsubject	13	Response	5	1031495	83428	1
+testsubject	13	Response	3	1108371	160304	1
+testsubject	15	Picture	12	1110358	0	2	668	3	0	500	other	0
+testsubject	16	Response	5	1583706	472514	1
+testsubject	16	Response	3	1609544	498352	1
+testsubject	18	Picture	5	1611409	0	1	667	3	0	500	other	0
+testsubject	19	Response	6	1747457	135214	1
+testsubject	19	Response	1	1767776	155533	1
+testsubject	21	Picture	5	1769697	0	1	667	3	0	500	other	0
+testsubject	22	Response	5	1833293	62762	1
+testsubject	22	Response	1	1856171	85640	1
+testsubject	24	Picture	5	1858098	0	2	668	3	0	500	other	0
+testsubject	25	Response	5	1915048	56116	1
+testsubject	25	Response	1	1925527	66595	1
+testsubject	27	Picture	4	1927485	0	1	667	2	0	500	other	0
+testsubject	28	Response	6	1980965	52646	1
+testsubject	28	Response	3	1991524	63205	1
+testsubject	30	Picture	13	1993536	0	1	667	2	0	500	other	0
+testsubject	31	Response	6	2078560	84190	1
+testsubject	31	Response	2	2090639	96269	1
+testsubject	33	Picture	3	2092612	0	1	667	2	0	500	other	0
+testsubject	34	Response	6	2136876	43430	1
+testsubject	34	Response	4	2147836	54390	1
+testsubject	36	Picture	6	2149822	0	1	667	2	0	500	other	0
+testsubject	37	Response	5	2227192	76536	1
+testsubject	37	Response	1	2243191	92535	1
+testsubject	39	Picture	11	2245062	0	1	667	2	0	500	other	0
+testsubject	40	Response	5	2311907	66011	1
+testsubject	40	Response	2	2319747	73851	1
+testsubject	42	Picture	12	2321621	0	1	667	2	0	500	other	0
+testsubject	43	Response	5	2403983	81528	1
+testsubject	43	Response	2	2422061	99606	1
+testsubject	45	Picture	4	2424032	0	2	668	3	0	500	other	0
+testsubject	46	Response	6	2468299	43433	1
+testsubject	46	Response	4	2482458	57592	1
+testsubject	48	Picture	4	2484412	0	1	667	2	0	500	other	0
+testsubject	49	Response	6	2506777	21531	1
+testsubject	49	Response	3	2524056	38810	1
+testsubject	51	Picture	10	2525944	0	1	667	2	0	500	other	0
+testsubject	52	Response	6	2623091	96313	1
+testsubject	52	Response	1	2667008	140230	1
+testsubject	54	Picture	9	2668887	0	1	667	2	0	500	other	0
+testsubject	55	Response	6	2715006	45285	1
+testsubject	55	Response	4	2722045	52324	1
+testsubject	57	Picture	8	2723929	0	1	667	2	0	500	other	0
+testsubject	58	Response	5	2752764	28001	1
+testsubject	58	Response	4	2756283	31520	1
+testsubject	60	Picture	13	2758289	0	1	667	2	0	500	other	0
+testsubject	61	Response	5	2821000	61877	1
+testsubject	61	Response	2	2831240	72117	1
+testsubject	63	Picture	12	2833180	0	1	667	2	0	500	other	0
+testsubject	64	Response	5	2895156	61143	1
+testsubject	64	Response	2	2897716	63703	1
+testsubject	66	Picture	9	2899731	0	1	667	2	0	500	other	0
+testsubject	67	Response	6	2930274	29709	1
+testsubject	67	Response	4	2941714	41149	1
+testsubject	69	Picture	8	2943598	0	1	667	2	0	500	other	0
+testsubject	70	Response	5	2965793	21361	1
+testsubject	70	Response	4	2969952	25520	1
+testsubject	72	Picture	10	2971953	0	1	667	2	0	500	other	0
+testsubject	73	Response	6	2990991	18204	1
+testsubject	73	Response	4	2994271	21484	1
+testsubject	75	Picture	7	2996138	0	1	667	2	0	500	other	0
+testsubject	76	Response	5	3011550	14578	1
+testsubject	76	Response	4	3015070	18098	1
+testsubject	78	Picture	4	3016987	0	1	667	2	0	500	other	0
+testsubject	79	Response	6	3032749	14928	1
+testsubject	79	Response	3	3040348	22527	1
+testsubject	81	Picture	5	3042340	0	1	667	2	0	500	other	0
+testsubject	82	Response	5	3066027	22853	1
+testsubject	82	Response	3	3092106	48932	1
+testsubject	84	Picture	8	3094046	0	1	667	3	0	500	other	0
+testsubject	85	Response	5	3124184	29304	1
+testsubject	85	Response	4	3133384	38504	1
+testsubject	87	Picture	3	3135244	0	2	668	3	0	500	other	0
+testsubject	88	Response	6	3153383	17305	1
+testsubject	88	Response	3	3159862	23784	1
+testsubject	90	Picture	7	3161765	0	1	667	2	0	500	other	0
+testsubject	91	Response	5	3179941	17342	1
+testsubject	91	Response	4	3193140	30541	1
+testsubject	93	Picture	11	3195124	0	1	667	2	0	500	other	0
+testsubject	94	Response	5	3234258	38300	1
+testsubject	94	Response	3	3254257	58299	1
+testsubject	96	Picture	3	3256171	0	1	667	2	0	500	other	0
+testsubject	97	Response	6	3279376	22371	1
+testsubject	97	Response	3	3289135	32130	1
+testsubject	99	Picture	12	3291031	0	1	667	2	0	500	other	0
+testsubject	100	Response	6	3348572	56707	1
+testsubject	100	Response	2	3362332	70467	1
+testsubject	102	Picture	11	3364253	0	2	668	3	0	500	other	0
+testsubject	103	Response	5	3411929	46842	1
+testsubject	103	Response	1	3428968	63881	1
+testsubject	105	Picture	1	3430971	0	1	667	3	0	500	other	0
+testsubject	106	Response	5	3457607	25802	1
+testsubject	106	Response	3	3470406	38601	1
+testsubject	108	Picture	9	3472336	0	1	668	2	0	500	other	0
+testsubject	109	Response	6	3487445	14275	1
+testsubject	109	Response	4	3503444	30274	1
+testsubject	111	Picture	9	3505362	0	1	667	2	0	500	other	0
+testsubject	112	Response	6	3526403	20207	1
+testsubject	112	Response	4	3530003	23807	1
+testsubject	114	Picture	6	3531882	0	1	667	2	0	500	other	0
+testsubject	115	Response	5	3568801	36085	1
+testsubject	115	Response	1	3599759	67043	1
+testsubject	117	Picture	2	3601769	0	1	667	2	0	500	other	0
+testsubject	118	Response	5	3622558	19955	1
+testsubject	118	Response	3	3633917	31314	1
+testsubject	120	Picture	10	3635795	0	1	667	2	0	500	other	0
+testsubject	121	Response	6	3650796	14167	1
+testsubject	121	Response	3	3695674	59045	1
+testsubject	123	Picture	1	3697676	0	1	667	2	0	500	other	0
+testsubject	124	Response	5	3724232	25722	1
+testsubject	124	Response	3	3754871	56361	1
+testsubject	126	Picture	13	3756721	0	1	667	2	0	500	other	0
+testsubject	127	Response	6	3800949	43394	1
+testsubject	127	Response	2	3816708	59153	1
+testsubject	129	Picture	8	3818602	0	1	667	2	0	500	other	0
+testsubject	130	Response	5	3834067	14631	1
+testsubject	130	Response	4	3845586	26150	1
+testsubject	132	Picture	2	3847457	0	1	668	2	0	500	other	0
+testsubject	133	Response	5	3870065	21774	1
+testsubject	133	Response	3	3877344	29053	1
+testsubject	135	Picture	6	3879315	0	1	667	2	0	500	other	0
+testsubject	136	Response	5	3917102	36953	1
+testsubject	136	Response	1	3938301	58152	1
+testsubject	138	Picture	4	3940195	0	1	667	2	0	500	other	0
+testsubject	139	Response	6	3962540	21511	1
+testsubject	139	Response	3	3968059	27030	1
+testsubject	141	Picture	12	3970051	0	1	668	2	0	500	other	0
+testsubject	142	Response	5	4043816	72931	1
+testsubject	142	Response	2	4053815	82930	1
+testsubject	144	Picture	4	4055784	0	1	667	2	0	500	other	0
+testsubject	145	Response	6	4084374	27756	1
+testsubject	145	Response	3	4089973	33355	1
+testsubject	147	Picture	8	4091978	0	1	667	2	0	500	other	0
+testsubject	148	Response	5	4117572	24760	1
+testsubject	148	Response	4	4121651	28839	1
+testsubject	150	Picture	11	4123502	0	1	668	2	0	500	other	0
+testsubject	151	Response	5	4184848	60512	1
+testsubject	151	Response	2	4212207	87871	1
+testsubject	153	Picture	3	4214072	0	1	667	2	0	500	other	0
+testsubject	154	Response	6	4237005	22099	1
+testsubject	154	Response	3	4246365	31459	1
+testsubject	156	Picture	7	4248265	0	1	667	2	0	500	other	0
+testsubject	157	Response	5	4267084	17985	1
+testsubject	157	Response	4	4278363	29264	1
+testsubject	159	Picture	10	4280289	0	1	667	3	0	500	other	0
+testsubject	160	Response	6	4298042	16919	1
+testsubject	160	Response	4	4303962	22839	1
+testsubject	162	Picture	7	4305976	0	1	667	2	0	500	other	0
+testsubject	163	Response	5	4318361	11551	1
+testsubject	163	Response	4	4324921	18111	1
+testsubject	165	Picture	3	4326825	0	1	667	2	0	500	other	0
+testsubject	166	Response	6	4341400	13741	1
+testsubject	166	Response	3	4348520	20861	1
+testsubject	168	Picture	13	4350510	0	1	667	2	0	500	other	0
+testsubject	169	Response	6	4392917	41573	1
+testsubject	169	Response	2	4407636	56292	1
+testsubject	171	Picture	10	4409555	0	1	667	2	0	500	other	0
+testsubject	172	Response	6	4458114	47725	1
+testsubject	172	Response	4	4479232	68843	1
+testsubject	174	Picture	1	4481110	0	1	667	2	0	500	other	0
+testsubject	175	Response	5	4502351	20407	1
+testsubject	175	Response	3	4506911	24967	1
+testsubject	177	Picture	11	4508798	0	1	667	2	0	500	other	0
+testsubject	178	Response	6	4568748	59116	1
+testsubject	178	Response	2	4577147	67515	1
+testsubject	180	Picture	12	4579018	0	1	668	2	0	500	other	0
+testsubject	181	Response	5	4620425	40573	1
+testsubject	181	Response	2	4644904	65052	1
+testsubject	183	Picture	6	4646904	0	1	667	2	0	500	other	0
+testsubject	184	Response	5	4699381	51643	1
+testsubject	184	Response	1	4702741	55003	1
+testsubject	186	Picture	2	4704615	0	1	667	2	0	500	other	0
+testsubject	187	Response	5	4734899	29450	1
+testsubject	187	Response	3	4740099	34650	1
+testsubject	189	Picture	6	4741977	0	1	667	2	0	500	other	0
+testsubject	190	Response	6	4879451	136640	1
+testsubject	190	Response	1	4886251	143440	1
+testsubject	192	Picture	6	4888256	0	1	667	2	0	500	other	0
+testsubject	193	Response	6	4934329	45239	1
+testsubject	193	Response	1	4942968	53878	1
+testsubject	195	Picture	5	4944966	0	1	667	2	0	500	other	0
+testsubject	196	Response	5	5000885	55085	1
+testsubject	196	Response	1	5005924	60124	1
+testsubject	198	Picture	2	5007847	0	1	667	3	0	500	other	0
+testsubject	199	Response	5	5040643	31962	1
+testsubject	199	Response	3	5044883	36202	1
+testsubject	201	Picture	5	5046877	0	1	667	2	0	500	other	0
+testsubject	202	Response	5	5114959	67248	1
+testsubject	202	Response	1	5136478	88767	1
+testsubject	204	Picture	12	5138447	0	2	668	3	0	500	other	0
+testsubject	205	Response	6	5195355	56074	1
+testsubject	205	Response	2	5200554	61273	1
+testsubject	207	Picture	8	5202497	0	1	667	2	0	500	other	0
+testsubject	208	Response	5	5224153	20823	1
+testsubject	208	Response	4	5247192	43862	1
+testsubject	210	Picture	8	5249199	0	1	667	2	0	500	other	0
+testsubject	211	Response	5	5266551	16518	1
+testsubject	211	Response	4	5270791	20758	1
+testsubject	213	Picture	2	5272717	0	1	667	2	0	500	other	0
+testsubject	214	Response	5	5289750	16199	1
+testsubject	214	Response	3	5294869	21318	1
+testsubject	216	Picture	6	5296735	0	2	668	3	0	500	other	0
+testsubject	217	Response	5	5323188	25619	1
+testsubject	217	Response	3	5337107	39538	1
+testsubject	219	Picture	4	5339101	0	1	667	3	0	500	other	0
+testsubject	220	Response	6	5357666	17731	1
+testsubject	220	Response	3	5373185	33250	1
+testsubject	222	Picture	1	5375129	0	1	667	2	0	500	other	0
+testsubject	223	Response	5	5389184	13221	1
+testsubject	223	Response	3	5394784	18821	1
+testsubject	225	Picture	2	5396645	0	2	668	3	0	500	other	0
+testsubject	226	Response	5	5407743	10264	1
+testsubject	226	Response	3	5411423	13944	1
+testsubject	228	Picture	10	5413325	0	1	667	2	0	500	other	0
+testsubject	229	Response	6	5429182	15023	1
+testsubject	229	Response	4	5449501	35342	1
+testsubject	231	Picture	5	5451354	0	1	667	2	0	500	other	0
+testsubject	232	Response	5	5524617	72429	1
+testsubject	232	Response	1	5529417	77229	1
+testsubject	234	Picture	3	5531415	0	2	668	3	0	500	other	0
+testsubject	235	Response	6	5549336	17087	1
+testsubject	235	Response	3	5560615	28366	1
+testsubject	237	Picture	11	5562606	0	1	667	2	0	500	other	0
+testsubject	238	Response	5	5627172	63732	1
+testsubject	238	Response	2	5638291	74851	1
+testsubject	240	Picture	3	5640166	0	1	667	2	0	500	other	0
+testsubject	241	Response	6	5661330	20331	1
+testsubject	241	Response	3	5672530	31531	1
+testsubject	243	Picture	13	5674525	0	1	667	2	0	500	other	0
+testsubject	244	Response	6	5729967	54608	1
+testsubject	244	Response	2	5734846	59487	1
+testsubject	246	Picture	10	5736740	0	1	667	2	0	500	other	0
+testsubject	247	Response	6	5760045	22471	1
+testsubject	247	Response	4	5765885	28311	1
+testsubject	249	Picture	2	5767763	0	1	668	2	0	500	other	0
+testsubject	250	Response	5	5785324	16727	1
+testsubject	250	Response	3	5790923	22326	1
+testsubject	252	Picture	7	5792783	0	1	667	2	0	500	other	0
+testsubject	253	Response	5	5811082	17465	1
+testsubject	253	Response	3	5815482	21865	1
+testsubject	255	Picture	1	5817468	0	1	667	2	0	500	other	0
+testsubject	256	Response	5	5828681	10379	1
+testsubject	256	Response	3	5835881	17579	1
+testsubject	258	Picture	11	5837817	0	1	667	2	0	500	other	0
+testsubject	259	Response	5	5893398	54747	1
+testsubject	259	Response	2	5898837	60186	1
+testsubject	261	Picture	9	5900699	0	1	667	2	0	500	other	0
+testsubject	262	Response	6	5929636	28103	1
+testsubject	262	Response	4	5935155	33622	1
+testsubject	264	Picture	9	5937060	0	1	667	2	0	500	other	0
+testsubject	265	Response	6	5958274	20380	1
+testsubject	265	Response	4	5962594	24700	1
+testsubject	267	Picture	7	5964581	0	1	667	2	0	500	other	0
+testsubject	268	Response	5	5976993	11578	1
+testsubject	268	Response	4	5986113	20698	1
+testsubject	270	Picture	13	5988099	0	1	667	2	0	500	other	0
+testsubject	271	Response	6	6023391	34458	1
+testsubject	271	Response	2	6038270	49337	1
+testsubject	273	Picture	13	6040139	0	1	667	2	0	500	other	0
+testsubject	274	Response	6	6084748	43775	1
+testsubject	274	Response	2	6090747	49774	1
