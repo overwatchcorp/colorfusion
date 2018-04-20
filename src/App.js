@@ -27,7 +27,7 @@ class App extends Component {
         values.push(data.slice(1,4));
       }
     } while (data);
-    if (values.length <= 0) return this.setState({ err: "Invalid file!" });
+    if (values.length <= 0) return this.setState({ values: null, err: <span>Invalid file! Try <a href="https://raw.githubusercontent.com/overwatchcorp/colorfusion/master/testsubject-color_fusion_2018.log">this test file</a>.</span> });
     return this.setState({ values, err: null });
   }
   handleChange(files) {
